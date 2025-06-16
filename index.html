@@ -1,0 +1,61 @@
+---
+layout: default
+title: "Accueil"
+---
+
+<div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap;">
+  <!-- Colonne gauche : photo + descriptif -->
+  <div style="flex:1 1 320px; min-width:280px;">
+    <img src="/assets/img/avatar.jpg" alt="Pierrick Girard" width="140" style="border-radius:50%; display:block; margin-bottom:16px;">
+
+    <h1>{{ site.author.name }}</h1>
+    <p>
+      <strong>{{ site.author.role }}</strong> — {{ site.description }}<br />
+      <em>{{ site.author.location }}</em>
+    </p>
+
+    <hr />
+
+    <h2>À propos</h2>
+    <p>
+      Data Analyst basé à Chambéry. J’aime transformer des données en <strong>décisions
+      actionnables</strong> : analyses exploratoires, tableaux de bord clairs (Power&nbsp;BI), et automatisation
+      légère (Python/SQL).
+    </p>
+
+    <h3>Compétences clés</h3>
+    <ul>
+      <li>Python</li>
+      <li>SQL</li>
+      <li>Dataviz (Power&nbsp;BI)</li>
+    </ul>
+
+    <h3>Contact</h3>
+    <ul>
+      <li>GitHub : <a href="https://github.com/{{ site.github.username }}">https://github.com/{{ site.github.username }}</a></li>
+      <li>LinkedIn : <a href="{{ site.linkedin }}">{{ site.linkedin }}</a></li>
+      <li>Email : <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    </ul>
+  </div>
+
+  <!-- Colonne droite : Projets -->
+  <aside style="flex:1 1 260px; min-width:260px; max-width:420px;">
+    <h2 style="margin-top:0;">Projets</h2>
+
+    <div style="border:1px solid #e5e5e5; border-radius:10px; padding:12px; margin-bottom:12px;">
+      <h3 style="margin:0 0 6px 0;">Projet #1 — Title to be completed</h3>
+      <p style="margin:0 0 8px 0;">Description to be completed</p>
+      <p style="margin:0;">
+        <a href="#">Demo</a> · <a href="#">Code</a>
+      </p>
+    </div>
+
+    <div style="border:1px solid #e5e5e5; border-radius:10px; padding:12px; margin-bottom:12px;">
+      <h3 style="margin:0 0 6px 0;">Projet #2 — Title to be completed</h3>
+      <p style="margin:0 0 8px 0;">Description to be completed</p>
+      <p style="margin:0;">
+        <a href="#">Demo</a> · <a href="#">Code</a>
+      </p>
+    </div>
+  </aside>
+</div>

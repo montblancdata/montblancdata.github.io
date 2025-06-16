@@ -1,0 +1,23 @@
+title: "Pierrick Girard - Mont Blanc Data"
+description: "Data Analyst – Portfolio & Projets"
+theme: jekyll-theme-minimal
+
+logo: /assets/img/avatar.jpg
+show_downloads: false
+# favicon: /assets/img/favicon.ico
+
+github:
+  username: montblancdata
+
+site:
+  linkedin: https://www.linkedin.com/in/pierrick-g-4721a2190/
+  email: montblanc.data@gmail.com
+
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+
+author:
+  name: "Pierrick Girard"
+  role: "Data Analyst"
+  location: "Chambéry, FR"
