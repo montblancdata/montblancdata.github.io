@@ -1,13 +1,22 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Pierrick Girard # your name (or website title) here
+logo: "/images/Photo_Github_Page.png?raw=true" # your photo (or logo) here
+description: >
+  <strong>Data Analyst | 15+ ans d’expérience</strong>
+  <br>
+  @SFR @SNCF
   <br><br>
-  Second description 
+  Python | SQL | PowerBI
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/pierrickgirard-montblancdata/">
+    <img src="/assets/linkedin-svgrepo-com.svg" alt=" LinkedIn" width="40" style="margin-right:12px;">
+  </a>
+  <a href="https://github.com/MontblancData">
+    <img src="/assets/github-mark.svg" alt=" GitHub" width="40">
+  </a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+
