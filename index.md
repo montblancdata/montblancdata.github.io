@@ -1,14 +1,3 @@
-## À propos
-
-Fort de 15 ans d’expérience dans de grands groupes, j’accompagne aujourd’hui les entreprises dans tous les aspects liés à la data, de la création de dashboards pertinents à l’élaboration de stratégies en vue d’améliorer leur productivité.  
-
-En parallèle, je me forme de manière autodidacte à la data science et à l’intelligence artificielle, afin de proposer des solutions innovantes et des recommandations basées sur les dernières avancées technologiques.  
-
-Je prends également plaisir à **partager régulièrement du contenu de vulgarisation sur LinkedIn**, afin de rendre la data accessible, inspirante et directement utile aux décideurs comme aux passionnés.  
-➡️ [Mon profil LinkedIn](https://www.linkedin.com/in/pierrickgirard-montblancdata/)
-
----
-
 ## Projets sélectionnés en data, analytics & BI
 
 ---
