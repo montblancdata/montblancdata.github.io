@@ -1,23 +1,13 @@
-title: "Pierrick Girard - Mont Blanc Data"
-description: "Data Analyst – Portfolio & Projets"
-theme: jekyll-theme-minimal
-
-logo: /assets/img/avatar.jpg
-show_downloads: false
-# favicon: /assets/img/favicon.ico
-
-github:
-  username: montblancdata
-
-site:
-  linkedin: https://www.linkedin.com/in/pierrick-g-4721a2190/
-  email: montblanc.data@gmail.com
-
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-feed
-- jekyll-seo-tag
-
-author:
-  name: "Pierrick Girard"
-  role: "Data Analyst"
-  location: "Chambéry, FR"
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
