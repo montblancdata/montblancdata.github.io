@@ -5,10 +5,10 @@ Fort de plus de 15 ans d’expérience dans de grands groupes et actuellement en
 Curieux et en apprentissage continu, je me forme à la **data science** et à l’**intelligence artificielle** pour intégrer les dernières avancées technologiques dans mes missions.  
 
 Convaincu que la donnée doit être comprise par tous, je partage régulièrement des contenus de vulgarisation afin de rendre la data accessible, inspirante et actionnable pour les **décideurs** comme pour les passionnés.
-  
-## Projets sélectionnés en data, analytics & BI
 
 ---
+
+## Projets sélectionnés en data, analytics & BI
 
 ### Scraping d’avis locaux (Aix)
 
