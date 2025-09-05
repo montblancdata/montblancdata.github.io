@@ -1,10 +1,16 @@
 ## A propos
 
-Fort de plus de 15 ans d’expérience dans de grands groupes et actuellement en poste à la **SNCF**, je développe en parallèle une activité tournée vers la valorisation des **données** : de la création de **dashboards** clairs à la mise en place de **stratégies** orientées résultats.
+Spécialiste de la **valorisation des données**, j’aide les organisations à transformer leurs enjeux métiers en **insights clairs, stratégiques et actionnables**.
 
-Curieux et en apprentissage continu, je me forme à la **data science** et à l’**intelligence artificielle** pour intégrer les dernières avancées technologiques dans mes missions.  
+Mon expertise couvre **SQL, Python, Power BI**, que je mets au service de la création de **dashboards intuitifs**, de **pipelines robustes** et de stratégies data **orientées résultats**.
 
-Convaincu que la donnée doit être comprise par tous, je partage régulièrement des contenus de vulgarisation afin de rendre la data accessible, inspirante et actionnable pour les **décideurs** comme pour les passionnés.
+Passionné de montagne, j’ai fondé **Mont Blanc Data** : un nom choisi avec soin, car je souhaite être pour mes clients un **guide de leurs données**. Comme en haute montagne, mon rôle est de tracer la voie, sécuriser le chemin et rendre le sommet — vos objectifs — atteignable grâce à une exploitation intelligente de vos données.
+
+Au-delà de la technique, je suis convaincu que **la donnée doit parler à tous**. J’aime raconter les histoires qu’elle porte, vulgariser des concepts complexes et concevoir des analyses **visuelles et inspirantes** qui permettent à chacun – décideur ou passionné – de s’en emparer.
+
+Déjà opérationnel sur des approches en **intelligence artificielle** et **traitement du langage**, je continue à explorer les dernières avancées de la data science pour enrichir mes missions.
+
+**Mon objectif reste inchangé : rendre la donnée claire, accessible et porteuse de valeur.**
 
 ---
 
