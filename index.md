@@ -4,7 +4,7 @@ Spécialiste de la **valorisation des données**, j’aide les organisations à 
 
 Mon expertise couvre **SQL, Python, Power BI**, que je mets au service de la création de **dashboards intuitifs**, de **pipelines robustes** et de stratégies data **orientées résultats**.
 
-Passionné de montagne, j’ai fondé **Mont Blanc Data** : un nom choisi avec soin, car je souhaite être pour mes clients un **guide de leurs données**. Comme en haute montagne, mon rôle est de tracer la voie, sécuriser le chemin et rendre le sommet — vos objectifs — atteignable grâce à une exploitation intelligente de vos données.
+Passionné de montagne, j’ai fondé **Mont Blanc Data** : un nom choisi avec soin, car je souhaite être pour mes clients un **guide de leurs données**. Comme en haute montagne, mon rôle est de tracer la voie, sécuriser le chemin et rendre le sommet - vos objectifs - atteignable grâce à une exploitation intelligente de vos données.
 
 Au-delà de la technique, je suis convaincu que **la donnée doit parler à tous**. J’aime raconter les histoires qu’elle porte, vulgariser des concepts complexes et concevoir des analyses **visuelles et inspirantes** qui permettent à chacun – décideur ou passionné – de s’en emparer.
 
