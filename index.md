@@ -1,9 +1,7 @@
-Spécialiste de la <b>valorisation des données</b>, j’aide les organisations à transformer leurs enjeux métiers en <b>insights clairs, stratégiques et actionnables</b>.<br><br>
-Mon expertise couvre <b>SQL</b>, <b>Python</b> et <b>Power BI</b>, que je mets au service de la création de <b>dashboards intuitifs</b>, de <b>pipelines robustes</b> et de stratégies data <b>orientées résultats</b>.<br><br>
-Passionné de montagne, j’ai fondé <b>Mont Blanc Data</b> : un nom choisi avec soin, car je souhaite être pour mes clients un guide de leurs données. Comme en haute montagne, mon rôle est de tracer la voie, sécuriser le chemin et rendre le sommet - vos objectifs - atteignable grâce à une <b>exploitation intelligente</b> de vos données.<br><br>
-Au-delà de la technique, je suis convaincu que <b>la donnée doit parler à tous</b>. J’aime raconter les histoires qu’elle porte, vulgariser des concepts complexes et concevoir des analyses <b>visuelles et inspirantes</b> qui permettent à chacun – décideur ou passionné – de s’en emparer.<br><br>
-Déjà opérationnel sur des approches en <b>intelligence artificielle</b> et <b>traitement du langage</b>, je continue à explorer les dernières avancées de la <b>data science</b> pour enrichir mes missions.<br><br>
-Mon objectif reste inchangé : <b>rendre la donnée claire, accessible et porteuse de valeur.<br><br>
+Spécialiste de la <b>valorisation des données</b> avec plus de 15 ans d’expérience, j’accompagne les organisations dans la transformation de leurs enjeux métiers en <b>insights clairs, stratégiques et actionnables</b>.<br><br>
+J’interviens de la structuration des données à leur restitution, en m’appuyant sur des environnements modernes et avec une <b>expertise en modélisation, pipelines de données et visualisation</b>.<br><br>
+Fondateur de Mont Blanc Data, j’adopte une approche de guide : tracer la voie, sécuriser les choix et rendre les objectifs atteignables grâce à une <b>exploitation efficace et maîtrisée de la donnée</b>.<br><br>
+Mon objectif reste inchangé : <b>rendre la donnée claire, accessible et porteuse de valeur</b>.<br><br>
 
 ---
 
